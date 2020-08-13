@@ -1,0 +1,31 @@
+educative.io/blog/typescript-tutorial
+
+Angular -> javascript framework
+	-> reactive SPA
+
+based on components
+
+every component
+->component.html
+->component.css
+->module.ts
+->component.ts
+
+
+
+Features of Ang9
+1. The Ivy Compiler
+2. better performance
+
+Tasklist App
+1. initialize the app
+2. create a tasklist class
+3. create a tasklistservice for CRUD operations
+4. update the AppComponent to render to browser
+
+npm install --save bootstrap@3
+npm install --save jquery
+
+
+
+ 
